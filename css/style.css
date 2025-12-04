@@ -1,0 +1,76 @@
+/*HEADER*/
+
+/*Titulo da pagina*/
+.titulo-tecas{
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 50px;
+
+}
+.tecas{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+} 
+
+
+
+/*CONTEUDO DA PAGINA PRINCIPAL*/
+
+/*div da imagem principal da pagina*/
+.img-main{
+    width: 150vh;
+    height: 70vh;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+/*titulo do conteudo principal*/
+.bem-vindo{
+  font-family: "Merienda", cursive;
+}
+/*Cards da pagina*/
+.cards{
+  font-family: "Merienda", cursive;
+}
+.bem-vindo{
+    padding-bottom: 8vh;
+    font-family: "Silkscreen", sans-serif;
+
+}
+.titulo{
+       font-family: "Silkscreen", sans-serif;
+}
+
+.resumo-main{
+    margin-bottom: 12vh;
+    margin-top: 3vh;
+    font-family: "Merienda", cursive;
+}
+
+
+/*PAGINA DE POST*/
+.titulo-post{
+    font-family: "Ysabeau Office", sans-serif;
+}
+
+.resumo-post{
+
+    font-family: "serif";   
+        
+}
+
+/*PAGINA DE CONTATO*/
+.titulos-1{
+    text-align: center;
+}
+
+
+/*PAGINA DE CATEGORIAS*/
+.categorias{
+    width: 30vh;
+}
+
+/*FOOTER*/
+footer{
+  background-color: #017ce0;
+}
