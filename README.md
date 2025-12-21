@@ -37,7 +37,7 @@ O blog exibe conteúdos dinamicamente, permite navegação entre posts individua
 
 ## 📂 Estrutura do Projeto
 <pre>
-Projeto_Blog-main/
+Projeto_blog/
 │── index.php # Página inicial (lista de posts)
 │── post.php # Página individual do post
 │── contato.php # Página de contato
@@ -67,12 +67,12 @@ Projeto_Blog-main/
 ## 🛠️ Como Executar o Projeto
 
 1. Instale um servidor local (XAMPP, WAMP ou MAMP)
-2. Copie a pasta `Projeto_Blog-main` para:
+2. Copie a pasta `Projeto_blog` para:
    - `htdocs` (XAMPP) ou  
    - `www` (WAMP)
 3. Inicie o servidor Apache
 4. Acesse no navegador:
-http://localhost/Projeto_Blog-main/index.php
+http://localhost/Projeto_blog/index.php
 
 
 ---
