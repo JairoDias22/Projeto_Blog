@@ -44,7 +44,7 @@ include_once "helpers/helpers.php";
       <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="http://localhost/projeto_blog/">Home <span class="sr-only">(página atual)</span></a>
+            <a class="nav-link" href="http://localhost/projeto_Blog/">Home <span class="sr-only">(página atual)</span></a>
           </li>
 
           <!--Menu de opções-->
@@ -53,8 +53,8 @@ include_once "helpers/helpers.php";
               Opções
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="http://localhost/Projeto_blog/">Pagina inicial</a>
-              <a class="dropdown-item" href="http://localhost/projeto_blog/contato.php">Contato</a>
+              <a class="dropdown-item" href="http://localhost/Projeto_Blog/">Pagina inicial</a>
+              <a class="dropdown-item" href="http://localhost/projeto_Blog/contato.php">Contato</a>
               <div class="dropdown-divider"></div>
               
             </div>

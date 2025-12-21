@@ -15,7 +15,7 @@
     <div class="row align-items-center">
       <div class="col-md-7 col-lg-8">
         <p class="text-center text-md-center">© 2025 Todos os direitos reservados:
-          <a href="http://localhost/projeto-blog/post.php?id=2" class="text-white" style="text-decoration: none;"><strong>Tecastecnologi.com</strong></a>
+          <a href="http://localhost/Projeto_Blog/post.php?id=2" class="text-white" style="text-decoration: none;"><strong>Tecastecnologi.com</strong></a>
         </p>
       </div>
       </div>
