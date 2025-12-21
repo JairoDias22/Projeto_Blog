@@ -36,7 +36,7 @@ O blog exibe conteúdos dinamicamente, permite navegação entre posts individua
 ---
 
 ## 📂 Estrutura do Projeto
-
+<pre>
 Projeto_Blog-main/
 │── index.php # Página inicial (lista de posts)
 │── post.php # Página individual do post
@@ -60,7 +60,7 @@ Projeto_Blog-main/
 ├── footer.php # Rodapé
 ├── categorias.php # Exibição de categorias
 └── next.php # Navegação entre posts
-
+</pre>
 
 ---
 
