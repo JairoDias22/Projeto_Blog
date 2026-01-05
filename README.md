@@ -1,4 +1,7 @@
-# 📝 Projeto Blog em PHP
+<h1 align="center"> 📝 Projeto Blog em PHP</h1>
+<p align="center">
+  <img src="Projeto-blog.gif" width="600">
+</p>
 
 Este projeto consiste no desenvolvimento de um **mini blog dinâmico**, criado com **HTML, CSS, Bootstrap e PHP**, utilizando **arrays associativos** para simular um sistema de postagens.
 
