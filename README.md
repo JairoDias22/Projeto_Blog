@@ -3,9 +3,11 @@
   <img src="Projeto-blog.gif" width="600">
 </p>
 
-Este projeto consiste no desenvolvimento de um **mini blog dinâmico**, criado com **HTML, CSS, Bootstrap e PHP**, utilizando **arrays associativos** para simular um sistema de postagens.
+Este projeto consiste no desenvolvimento de um mini blog dinâmico, desenvolvido como projeto do curso técnico do SENAC, no curso de Técnico em Informática para Internet.
 
-O blog exibe conteúdos dinamicamente, permite navegação entre posts individuais e utiliza **templates reutilizáveis** para manter o código organizado e padronizado.
+Foi criado com HTML, CSS, Bootstrap e PHP, utilizando arrays associativos para simular um sistema de postagens.
+
+O blog exibe conteúdos de forma dinâmica, permite a navegação entre posts individuais e utiliza templates reutilizáveis, garantindo melhor organização, padronização e manutenção do código.
 
 ---
 
@@ -112,8 +114,6 @@ Este projeto foi desenvolvido com fins **acadêmicos**, com o objetivo de pratic
 ## 👨‍💻 Autor
 
 **Raimundo Jairo da Silva Dias**  
-📧 Email: **jairodias321@gmail.com**  
-🎓 Estudante de Tecnologia e Programação  
 
 ---
 
